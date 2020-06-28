@@ -1,2 +1,2 @@
-source 'https://rubygem.org'
+source 'https://rubygems.org'
 gem 'rails', '~>5.2'
